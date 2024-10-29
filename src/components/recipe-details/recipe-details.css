@@ -1,0 +1,21 @@
+.montserrat{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+
+.w-60{
+	width: 60%;
+}
+
+.custom-link {
+	text-decoration: underline black;
+}
+
+.custom-link:hover {
+	text-decoration: underline #eb4828;
+	cursor: pointer;
+}
+
+.custom-list li::marker {
+    color: orange; /* Цвет маркера */
+}
